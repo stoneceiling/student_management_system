@@ -1,2 +1,0 @@
-# student_management_system
-一个完整的学生成绩管理系统
